@@ -1,0 +1,54 @@
+[14-Apr-2021 05:21:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home1/digitan1...')
+#2 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home1/digitan1...')
+#3 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-serv in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[14-Apr-2021 07:29:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home1/digitan1...')
+#2 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home1/digitan1...')
+#3 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-serv in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[15-Apr-2021 05:19:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home1/digitan1...')
+#2 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home1/digitan1...')
+#3 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-serv in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[15-Apr-2021 11:30:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home1/digitan1...')
+#2 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home1/digitan1...')
+#3 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-serv in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[16-Apr-2021 05:19:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home1/digitan1...')
+#2 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home1/digitan1...')
+#3 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-serv in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[17-Apr-2021 05:20:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home1/digitan1...')
+#2 /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home1/digitan1...')
+#3 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home1/digitan1/public_html/chennaimma/wp-includes/IXR/class-IXR-serv in /home1/digitan1/public_html/chennaimma/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
